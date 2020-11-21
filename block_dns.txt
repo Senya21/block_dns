@@ -194,3 +194,16 @@
 0.0.0.0 miner.pr0gramm.com
 0.0.0.0 reasedoper.pw
 0.0.0.0 xbasfbno.info
+##### IPlogger
+0.0.0.0 ezstat.ru
+0.0.0.0 iplogger.org
+0.0.0.0 2no.co
+0.0.0.0 iplogger.com
+0.0.0.0 iplogger.ru
+0.0.0.0 yip.su
+0.0.0.0 iplogger.co
+0.0.0.0 iplogger.info
+0.0.0.0 ipgrabber.ru
+0.0.0.0 ipgraber.ru
+0.0.0.0 iplis.ru
+0.0.0.0 02ip.ru
