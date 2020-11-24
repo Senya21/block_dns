@@ -71,3 +71,4 @@
 127.0.0.1 settings.data.microsof.com
 127.0.0.1 telecommand.telemetry.microsoft.com.nsat-c.net
 127.0.0.1 blob.weather.microsoft.com
+127.0.0.1 tile-service.weather.microsoft.com
