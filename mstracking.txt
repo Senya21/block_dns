@@ -73,3 +73,4 @@
 127.0.0.1 blob.weather.microsoft.com
 127.0.0.1 tile-service.weather.microsoft.com
 127.0.0.1 dmd.metaservices.microsoft.com
+127.0.0.1 v10.events.data.microsoft.com
