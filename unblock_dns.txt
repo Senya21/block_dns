@@ -1,0 +1,5 @@
+### MSUpload
+@@||delivery.mp.microsoft.com^$important
+@@||download.windowsupdate.com^$important
+@@||ctldl.windowsupdate.com^$important
+@@||update.microsoft.com^$important
