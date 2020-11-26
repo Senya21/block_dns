@@ -300,7 +300,7 @@
 ||jellyfish.pandora.xiaomi.com^
 ||lbs.pandora.xiaomi.com^
 ||lg-bgp.pandora.xiaomi.com^
-||logonext.tv^.kuyun.com^
+||logonext.tv.kuyun.com^
 ||logupdate.avlyun.sec.miui.com^
 ||m.bss.pandora.xiaomi.com^
 ||mazu.sec.miui.com^
@@ -475,7 +475,7 @@
 ||www.jellyfish.pandora.xiaomi.com^
 ||www.lbs.pandora.xiaomi.com^
 ||www.lg-bgp.pandora.xiaomi.com^
-||www.logonext.tv^.kuyun.com^
+||www.logonext.tv.kuyun.com^
 ||www.logupdate.avlyun.sec.miui.com^
 ||www.m.bss.pandora.xiaomi.com^
 ||www.mazu.sec.miui.com^
@@ -537,7 +537,7 @@
 ||www.tracking.intl.miui.com^
 ||www.tracking.miui.com^
 ||www.trial.api.huangye.miui.com^
-||www.tv^.app.migc.xiaomi.com^
+||www.tv.app.migc.xiaomi.com^
 ||www.upgrade.mishop.pandora.xiaomi.com^
 ||www.voip.game.xiaomi.com^
 ||www.wallpaper.cdn.pandora.xiaomi.com^
@@ -642,7 +642,7 @@
 ||lbs.pandora.xiaomi.com^
 ||lg-bgp.pandora.xiaomi.com^
 ||login.game.xiaomi.com^
-||logonext.tv^.kuyun.com^
+||logonext.tv.kuyun.com^
 ||logupdate.avlyun.sec.miui.com^
 ||m.bss.pandora.xiaomi.com^
 ||mazu.sec.miui.com^
