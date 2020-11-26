@@ -70,7 +70,7 @@
 0.0.0.0 auth.api.gitv.tv
 0.0.0.0 data.hpplay.com.cn
 0.0.0.0 leboapi.hpplay.com.cn
-0.0.0.0 http://www.hpplay.com.cn
+0.0.0.0 www.hpplay.com.cn
 0.0.0.0 gallery.p2p.pandora.xiaomi.com
 ##### MiTV: firmware upgrade!
 #0.0.0.0 upgrade.ptmi.gitv.tv
@@ -89,15 +89,15 @@
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 http://www.googleadservices.com
+0.0.0.0 www.googleadservices.com
 0.0.0.0 syndication.exoclick.com
 0.0.0.0 ads.exoclick.com
 0.0.0.0 cdn11.contentabc.com
 0.0.0.0 csi.gstatic.com
-0.0.0.0 http://www.googletagservices.com
+0.0.0.0 www.googletagservices.com
 0.0.0.0 google-analytics.com
 0.0.0.0 ssl.google-analytics.com
-0.0.0.0 http://www.googletagmanager.com
+0.0.0.0 www.googletagmanager.com
 0.0.0.0 static.doubleclick.net
 ##### MX Player
 0.0.0.0 data.flurry.com
@@ -124,7 +124,7 @@
 0.0.0.0 target.my.com
 0.0.0.0 rt.applvn.com
 0.0.0.0 i.xx.openx.com
-0.0.0.0 http://www.smaato.com
+0.0.0.0 www.smaato.com
 0.0.0.0 mayert.link
 0.0.0.0 pipki.r.worldssl.net
 0.0.0.0 app-measurement.com
@@ -151,7 +151,7 @@
 0.0.0.0 awaps.yandex.ru
 0.0.0.0 kiks.yandex.ru
 0.0.0.0 mc.yandex.ru
-0.0.0.0 http://www.marketgid.com
+0.0.0.0 www.marketgid.com
 0.0.0.0 ad.adriver.ru
 0.0.0.0 secure-ams.adnxs.com
 0.0.0.0 apps.developermedia.com
@@ -159,7 +159,7 @@
 0.0.0.0 trafmag.com
 0.0.0.0 al172.luxup2.ru
 0.0.0.0 al173.luxup2.ru
-0.0.0.0 http://www.tovarro.com
+0.0.0.0 www.tovarro.com
 0.0.0.0 creofive.com
 0.0.0.0 et-code.ru
 0.0.0.0 rarenok.biz
