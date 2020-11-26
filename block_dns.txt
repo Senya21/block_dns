@@ -209,3 +209,4 @@
 0.0.0.0 02ip.ru
 ####
 0.0.0.0 detectportal.firefox.com
+0.0.0.0 web.facebook.com
