@@ -3,3 +3,7 @@
 @@||download.windowsupdate.com^$important
 @@||ctldl.windowsupdate.com^$important
 @@||update.microsoft.com^$important
+### Yandex
+@@||music.yandex.ru^$important
+@@||passport.yandex.ru^$important
+@@||mail.yandex.ru^$important
