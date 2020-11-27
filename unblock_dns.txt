@@ -7,3 +7,4 @@
 @@||music.yandex.ru^$important
 @@||passport.yandex.ru^$important
 @@||mail.yandex.ru^$important
+@@||disk.yandex.ru^$important
