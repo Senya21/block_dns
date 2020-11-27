@@ -791,6 +791,9 @@
 ||tile-service.weather.microsoft.com^
 ||dmd.metaservices.microsoft.com^
 ||v10.events.data.microsoft.com^
+##### Yandex
+||yandex.ru^
+||yandex.com^
 ##### IPlogger
 ||ezstat.ru^
 ||iplogger.org^
