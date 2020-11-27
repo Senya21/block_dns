@@ -794,6 +794,8 @@
 ##### Yandex
 ||yandex.ru^
 ||yandex.com^
+#### Facebook
+||www.facebook.com^
 ##### IPlogger
 ||ezstat.ru^
 ||iplogger.org^
