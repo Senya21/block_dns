@@ -55,6 +55,7 @@
 ||bolt.v2.t001.ottcn.com^
 ||recsys.v2.t001.ottcn.com^
 ||misc.v2.t001.ottcn.com^
+||m.video.xiaomi.com^
 ##### MiTV: status bar notifications 1
 ||resolver.msg.xiaomi.net^
 ||hub5pn.wap.ptxl.gitv.tv^
