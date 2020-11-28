@@ -8,6 +8,7 @@
 @@||passport.yandex.ru^$important
 @@||mail.yandex.ru^$important
 @@||disk.yandex.ru^$important
+@@||market.yandex.ru^$important
 @@||translate.yandex.ru^$important
 ### Aliexpress
 @@||alicdn.com^$important
