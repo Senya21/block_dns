@@ -9,3 +9,7 @@
 @@||mail.yandex.ru^$important
 @@||disk.yandex.ru^$important
 @@||translate.yandex.ru^$important
+### Aliexpress
+@@||alicdn.com^$important
+@@||login.aliexpress.ru^$important
+@@||passport.aliexpress.com^$important
