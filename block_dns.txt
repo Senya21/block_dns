@@ -4488,5 +4488,4 @@
 ||heads-ec.spotify.com^
 ||prod.spotify.map.fastlylb.net^
 ||sto3.spotify.com^
-||spclient.wg.spotify.com^
 ||upgrade.spotify.com^
