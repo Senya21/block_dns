@@ -3229,9 +3229,6 @@
 ||a-0011.a-msedge.net^
 ||a-0012.a-msedge.net^
 ||statsfe2.update.microsoft.com^
-##### Yandex
-||yandex.ru^
-||yandex.com^
 #### Facebook
 ||facebook.com^
 ##### IPlogger
