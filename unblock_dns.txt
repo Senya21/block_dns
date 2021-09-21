@@ -13,6 +13,7 @@
 @@||clck.yandex.ru^$important
 @@||sandbox.music.yandex.net^$important
 @@||payment-widget.ott.yandex.ru^$important
+@@||social.yandex.ru^$important
 ### Aliexpress
 @@||alicdn.com^$important
 @@||login.aliexpress.ru^$important
