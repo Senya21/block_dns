@@ -10,6 +10,7 @@
 @@||disk.yandex.ru^$important
 @@||market.yandex.ru^$important
 @@||translate.yandex.ru^$important
+@@||clck.yandex.ru^$important
 ### Aliexpress
 @@||alicdn.com^$important
 @@||login.aliexpress.ru^$important
