@@ -11,6 +11,8 @@
 @@||market.yandex.ru^$important
 @@||translate.yandex.ru^$important
 @@||clck.yandex.ru^$important
+@@||sandbox.music.yandex.net^$important
+@@||payment-widget.ott.yandex.ru^$important
 ### Aliexpress
 @@||alicdn.com^$important
 @@||login.aliexpress.ru^$important
