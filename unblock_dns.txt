@@ -16,3 +16,9 @@
 @@||passport.aliexpress.com^$important
 ### Instagram
 @@||www.instagram.com^$important
+### Xiaomi
+@@||global.market.xiaomi.com^$important
+@@||us.find.api.micloud.xiaomi.net^$important
+@@||account.xiaomi.com^$important
+@@||find.api.micloud.xiaomi.net^$important
+@@||update.miui.com^$important
