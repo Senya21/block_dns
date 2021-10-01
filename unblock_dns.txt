@@ -26,3 +26,4 @@
 @@||account.xiaomi.com^$important
 @@||find.api.micloud.xiaomi.net^$important
 @@||update.miui.com^$important
+@@||ru.ott.io.mi.com^$important
