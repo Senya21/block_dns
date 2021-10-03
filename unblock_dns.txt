@@ -28,3 +28,4 @@
 @@||update.miui.com^$important
 @@||ru.ott.io.mi.com^$important
 @@||ksyru0-eco.fds.api.xiaomi.com^$important
+@@||ru.api.io.mi.com^$important
