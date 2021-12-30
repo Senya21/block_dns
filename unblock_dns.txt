@@ -5,6 +5,8 @@
 @@||update.microsoft.com^$important
 ### Yandex
 @@||music.yandex.ru^$important
+@@||strm.yandex.ru^$important
+@@||yandex.st^$important
 @@||passport.yandex.ru^$important
 @@||mail.yandex.ru^$important
 @@||disk.yandex.ru^$important
@@ -29,3 +31,12 @@
 @@||ru.ott.io.mi.com^$important
 @@||ksyru0-eco.fds.api.xiaomi.com^$important
 @@||ru.api.io.mi.com^$important
+### Binance
+@@||binance.me^$important
+@@||binance.cloud^$important
+@@||binance.com^$important
+### Others
+@@||secure.soundcloud.com^$important
+@@||cs.pikabu.ru^$important
+@@||spclient.wg.spotify.com^$important
+@@||suggestions.dadata.ru^$important
