@@ -35,7 +35,7 @@
 @@||binance.me^$important
 @@||binance.cloud^$important
 @@||binance.com^$important
-### Others
+### Other
 @@||secure.soundcloud.com^$important
 @@||cs.pikabu.ru^$important
 @@||spclient.wg.spotify.com^$important
