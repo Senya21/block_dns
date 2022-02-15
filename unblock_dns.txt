@@ -1,9 +1,5 @@
 ### LuckyPatcher
 @@||chelpus.com^$important
-### Binance
-@@||binance.me^$important
-@@||binance.cloud^$important
-@@||binance.com^$important
 ### Nvidia
 @@||accounts.nvgs.nvidia.cn^$important
 ### MSUpdate
@@ -43,10 +39,13 @@
 @@||binance.me^$important
 @@||binance.cloud^$important
 @@||binance.com^$important
-### Other
+### SoundCloud
 @@||secure.soundcloud.com^$important
+### Pikabu
 @@||cs.pikabu.ru^$important
+### Spotify
 @@||spclient.wg.spotify.com^$important
-@@||suggestions.dadata.ru^$important
 ### Google
 @@||google-public-dns-a.google.com^$important
+### Misc
+@@||suggestions.dadata.ru^$important
