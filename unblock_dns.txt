@@ -1,3 +1,11 @@
+### LuckyPatcher
+@@||chelpus.com^$important
+### Binance
+@@||binance.me^$important
+@@||binance.cloud^$important
+@@||binance.com^$important
+### Nvidia
+@@||accounts.nvgs.nvidia.cn^$important
 ### MSUpdate
 @@||delivery.mp.microsoft.com^$important
 @@||download.windowsupdate.com^$important
